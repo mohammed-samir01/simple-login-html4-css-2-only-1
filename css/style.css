@@ -1,0 +1,103 @@
+﻿*
+{
+ font-family: Verdana;
+}
+.container
+{
+ width: 50%;
+ height:auto;
+ border: 1px solid black;
+ margin: 100px auto 0pc auto;
+}
+.spn
+{
+ width: 100%;
+}
+.par1
+{
+ margin: 20px;
+}
+.fa-solid
+{
+ color:#224241;
+ font-size:30px;
+
+}
+.fa-house
+{
+ color:#224241;
+ font-size:25px;
+}
+.stp
+{
+ color: darkgreen;
+ font-weight: bolder;
+ font-family: Verdana;
+}
+.sec2
+{
+ border-bottom: 2px dotted black;
+
+}
+.par2
+{
+ margin:20px;
+ overflow: hidden;
+}
+.left
+{
+ width: 45%;
+ float: left;
+}
+.right
+{
+ width: 45%;
+ float: right;
+}
+.mrg
+{
+ margin-top: 10px;
+ width: 97%;
+}
+.par3
+{
+ clear:both;
+ margin:20px 10px 20px 20px;
+}
+.idd
+{
+ display: block;
+}
+.par4
+{
+ display: flex;
+ justify-content: space-around;
+ padding: 10px;
+ margin: 10px;
+ width: 100%;
+}
+.mg
+{
+ margin-top: 7px;
+
+}
+.sec3
+{
+ border-bottom: 2px dotted black;
+
+}
+.sec5
+{
+ background-color: darkgreen;
+}
+.mrg1
+{
+ font-size: larger;
+ background-color: darkgreen;
+ color: white;
+ width:100%;
+ padding: 10px;
+ text-align: center;
+}
+
+
